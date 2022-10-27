@@ -37,7 +37,7 @@ Uma página onde pode acrescentar uma lista, incluindo o nome, valor e quantidad
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]( ). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://lista-de-compras-six.vercel.app/). 
 
 ## :memo: Licença
 
